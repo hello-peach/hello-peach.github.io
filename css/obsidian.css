@@ -1020,7 +1020,7 @@ footer .copyright a {
   animation-duration: 1.2s;
   display: flex;
   flex-direction: row-reverse;
-  font-size: 24px;
+  font-size: 10px;
   line-height: 32px;
   margin: 0 20px 20px 0;
 }
